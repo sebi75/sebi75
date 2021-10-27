@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sebi75
 - 👀 I’m interested in building creative software with javascript & others,
-- 🌱 I’m currently learning databases,
-- 💞️ I’m looking to collaborate on different nice projects, I'm opened to anything!
+- 🌱 I’m currently working on nodejs project,
 - 📫 How to reach me - just dm me and I'm trying to answer ASAP!
 
 <!---
