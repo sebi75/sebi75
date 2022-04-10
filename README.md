@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sebastian Semeniuc
 - 👀 I’m interested in building creative software using reactjs, css, react-native, firebase, nodejs, mongodb and others;
-- 🌱 I’m currently working on different apps with react-native-reanimated and react-native-navigation;
+- 🌱 I’m currently learning GO
 - 📫 How to reach me - DM me on twitter or instagram
 
 <!---
