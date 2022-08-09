@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sebastian Semeniuc
-- 👀 I’m interested in building all kinds of software using React.js, React-Native, Node.js, Go, Python
+- 👀 I’m interested in building all kinds of apps using React.js, React-Native, Node.js, Go, Python
 - 📫 How to reach me - DM me on twitter, instagram, email me or wherever you can send me a message!
 
 <!---
