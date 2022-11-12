@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Sebastian Semeniuc
-- 👀 I’m interested in building all kinds of apps using React.js, React-Native, Node.js, Go, Python, Rust
-- 📫 How to reach me - DM me on twitter, instagram, email me or wherever you can send me a message!
-
-<!---
-sebi75/sebi75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 
+- # I’m currently in a fulltime software engineer position,
+- computer science student, and highly passionate of machine learning and artificial intelligence.
+- 
+-
+- You can always reach me here, on twitter, linkedin or instagram
