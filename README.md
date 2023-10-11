@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sebastian Semeniuc
 
-### I’m currently in a fulltime software engineer position and computer science student.
+### I’m currently in a fulltime software engineer position and robotics student.
  
 ### Passionate of machine learning and artificial intelligence.
 
